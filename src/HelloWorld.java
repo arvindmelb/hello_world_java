@@ -13,9 +13,9 @@ public class HelloWorld {
     public static void main(String[] argv) throws IOException {
         BufferedReader buff = new BufferedReader(
                 new InputStreamReader(System.in));
-        System.out.print("What's your good name Sir/Madam? ");
+        System.out.print("What's your good name Srimaan ji ? ");
         System.out.flush();
         String s = buff.readLine();
-        System.out.printf("Hello, %s!", s);
+        System.out.printf("Namastay ji Srimaan athwa Srimathi ji, %s!", s);
     }
 }
