@@ -16,6 +16,6 @@ public class HelloWorld {
         System.out.print("What's your good name Srimaan ji ? ");
         System.out.flush();
         String s = buff.readLine();
-        System.out.printf("Namastay, %s!", s);
+        System.out.printf("Namastay Shimaan and Srimathi ji, %s!", s);
     }
 }
