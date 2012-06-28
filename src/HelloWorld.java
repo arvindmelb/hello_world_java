@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Administrator
+ * User: Arvind Kumar
  * Date: 6/14/12
  * Time: 12:58 PM
  * To change this template use File | Settings | File Templates.
@@ -16,6 +16,6 @@ public class HelloWorld {
         System.out.print("What's your good name Srimaan ji ? ");
         System.out.flush();
         String s = buff.readLine();
-        System.out.printf("Namastay Shimaan and Srimathi ji, %s!", s);
+        System.out.printf("Namastay Shri Shimaan and Srimathi ji, %s!", s);
     }
 }
